@@ -34,7 +34,7 @@ DownloadUpload (DUL) is a unique project that aims to optimize file transfer by 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/DownloadUpload.git
+    git clone https://github.com/mingtianbian/DownloadUpload.git
     cd DownloadUpload
     ```
 
